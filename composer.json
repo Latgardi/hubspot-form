@@ -1,0 +1,17 @@
+{
+    "name": "kitsune/hubspot-form",
+    "autoload": {
+        "psr-4": {
+            "Kitsune\\HubspotForm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Latgardi",
+            "email": "saikinmirai@gmail.com"
+        }
+    ],
+    "require": {
+        "hubspot/api-client": "^13.0"
+    }
+}
