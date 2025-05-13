@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Hubspot Form Plugin
  * Description: Custom form plugin that sends email and integrates with HubSpot.
- * Version: 1.0.0
+ * Version: 0.1
  * Author: Kitsune
  */
 
